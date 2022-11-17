@@ -7,7 +7,12 @@ public class MathUtilLive {
         System.out.println(result); 
         System.out.println(MathUtil.getFactorial(6));
         System.out.println(MathUtil.getFactorial(0));
+        
+        
+        System.out.println(MathUtil.getFactorial(1));
+        System.out.println(MathUtil.getFactorial(3));
 
+        
         //MathUtil.getFactorial(-5);
     }
 }
