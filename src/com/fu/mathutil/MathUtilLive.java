@@ -8,7 +8,7 @@ public class MathUtilLive {
         System.out.println(MathUtil.getFactorial(6));
         System.out.println(MathUtil.getFactorial(0));
         
-        
+        // thêm code sau lầm đầu tiên làm chuyển ấy.
         System.out.println(MathUtil.getFactorial(1));
         System.out.println(MathUtil.getFactorial(3));
 

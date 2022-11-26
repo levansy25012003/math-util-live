@@ -3,6 +3,7 @@ package com.fu.mathutil;
 // Ta viết cái class cung cấp tiện ích cho nơi kahcs xài.
 public class MathUtil {
        
+    
     public static long getFactorial(int n) {
         if (n < 0 || n > 20)
             throw new IllegalArgumentException("nhap n lo");
